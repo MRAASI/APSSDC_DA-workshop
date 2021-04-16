@@ -1,0 +1,21 @@
+Steps for new respositary:
+---------------------------
+1. git init
+2. git config --global user.name "user_name" 
+3. git config --global user.email "your_email"
+##how to add files from one location to another location :
+4. git add .(all_files) or file_name
+5. git commit -m "message"
+6. git remote add remote_name "github_respositary_url"
+7. git push remote_name branch_name (master)
+8. GOTO-->github-->Refresh name and check files
+
+
+
+
+
+
+
+
+
+
